@@ -41,4 +41,4 @@
 - Schema.sql file to customize the schema and input initial data
 - Thymeleaf Fragments to reduce redundancy of repeating HTML elements (head, footer, navigation)
 
-Credit goes to [@jaiswaladi246](https://github.com/jaiswaladi246). I cloned this repository from him.
+Credit goes to [@jaiswaladi246](https://github.com/jaiswaladi246) for the inspiration. I cloned the board game application from her repositories.
