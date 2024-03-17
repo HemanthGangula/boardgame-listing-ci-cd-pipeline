@@ -15,7 +15,7 @@ This project implements an end-to-end CI/CD pipeline for the BoardgameListingWeb
 - **Nexus Repository:** Nexus
 - **Docker Configuration:** Docker
 - **Kubernetes Deployment:** Kubernetes
-- **Monitoring Setup:** Prometheus, Grafana, Blackbox, Node, Exporter
+- **Monitoring Setup:** Prometheus, Grafana, Blackbox, Node Exporter.
 
 
 
