@@ -23,3 +23,8 @@ This project implements an end-to-end CI/CD pipeline for the BoardgameListingWeb
 
 This project is licensed under the [MIT](https://choosealicense.com/licenses/mit/)
 
+
+## Acknowledgements
+
+Special thanks to [@jaiswaladi246](https://github.com/jaiswaladi246) for the contribution to the BoardgameListingWebApp.
+
