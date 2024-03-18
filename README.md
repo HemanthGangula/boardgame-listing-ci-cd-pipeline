@@ -16,7 +16,9 @@ This project implements an end-to-end CI/CD pipeline for the BoardgameListingWeb
 - **Docker Configuration:** Docker
 - **Kubernetes Deployment:** Kubernetes
 - **Monitoring Setup:** Prometheus, Grafana, Blackbox, Node Exporter.
+  
 
+For further insights, explore the associated [Article](https://hemanthgangula.hashnode.dev/efficient-end-to-end-cicd) detailing this project.
 
 
 ## License
